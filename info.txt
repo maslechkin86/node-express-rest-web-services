@@ -1,0 +1,11 @@
+// [1] run mongod.exe process
+mongod
+
+// [2] run the MongoDB
+mongo
+
+// [3] run the application
+gulp
+
+// [4] run tests
+gulp test
